@@ -1,0 +1,6 @@
+id=xiaomiplaystorefix
+name=Xiaomi Play Store Fix
+version=1.3
+versionCode=4
+author=leapdragon
+description=Fixes Google Play Store crashes, stalled downloads and high CPU on Xiaomi/HyperOS ROMs with a buggy built-in Cronet (libcronet in the Tethering APEX). Zygisk only; no Xposed/LSPosed/Vector.
